@@ -8,10 +8,29 @@
 }
 
 body {
-    height: 999vh;
+    /* height: 999vh; */
 }
 
 /* Set */
+.btn-cs {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background-color: #086454;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 100%;
+    font-size: 2rem;
+    border: 0;
+    z-index: 999;
+}
+
+.btn-cs:hover {
+    color: #086454;
+    background-color: white;
+    border: 2px solid #086454;
+}
+
 .text-green-theme {
     color: #086454;
 }
@@ -47,7 +66,7 @@ body {
     margin-top: 5rem;
 }
 
-.btn-tell {
+.btn-tell, .btn-catalog {
     background-color: #086454;
     color: white;
     padding: 0.8rem 2.5rem;
@@ -58,6 +77,11 @@ body {
 .btn-tell:hover {
     border: 2px solid white;
     color: white;
+}
+
+.btn-catalog:hover {
+    border: 2px solid black;
+    color: black;
 }
 
 /*  */
@@ -87,4 +111,57 @@ section#services {
 /*  */
 section#products {
     padding: 2rem;
+}
+
+/*  */
+section#contact {
+    background-image: url(img/Contact.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 2rem;
+}
+
+textarea {
+    height: 11rem;
+}
+
+.form-contact {
+    height: 3rem;
+}
+
+.btn-send {
+    border: 2px solid white;
+    color: white;  
+    padding: 0.8rem 5rem;
+    font-size: 1.2rem;
+    margin-top: 4rem; 
+}
+
+.btn-send:hover {
+    border: 2px solid #7afaae;
+    color: #7afaae;
+}
+
+/*  */
+footer {
+    background-color: #086454;
+    padding: 2rem;
+}
+
+hr {
+    border: 1px solid white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #7afaae;
+}
+
+.icons-footer {
+    font-size: 1.5rem;
 }
