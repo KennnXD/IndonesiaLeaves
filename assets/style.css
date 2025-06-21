@@ -7,10 +7,6 @@
     font-family: "Poppins", sans-serif;
 }
 
-body {
-    /* height: 999vh; */
-}
-
 /* Set */
 .btn-cs {
     position: fixed;
@@ -110,7 +106,7 @@ section#services {
 
 /*  */
 section#products {
-    padding: 2rem;
+    padding: 1rem;
 }
 
 /*  */
@@ -164,4 +160,16 @@ footer a:hover {
 
 .icons-footer {
     font-size: 1.5rem;
+}
+
+@media screen and (max-width: 992px) {
+    #mainNav {
+        background-color: #086454 !important;
+    }
+    
+    .navbar-collapse {
+        background-color: #086454 !important;
+        border-radius: 0.25rem !important; /* same as .rounded */
+    }
+
 }
