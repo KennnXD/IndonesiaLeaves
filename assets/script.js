@@ -62,13 +62,12 @@ function translateLanguage(lang) {
 
     const product1 = document.getElementById('product-1');
     const product2 = document.getElementById('product-2');
-    const product3 = document.getElementById('product-3');
-    const product4 = document.getElementById('product-4');
-    const product5 = document.getElementById('product-5');
-    const product6 = document.getElementById('product-6');
-    const product7 = document.getElementById('product-7');
-    const product8 = document.getElementById('product-8');
-    const product9 = document.getElementById('product-9');
+    const product3 = document.getElementById('product-4');
+    const product4 = document.getElementById('product-5');
+    const product5 = document.getElementById('product-6');
+    const product6 = document.getElementById('product-7');
+    const product7 = document.getElementById('product-8');
+    const product8 = document.getElementById('product-9');
 
     const contact1 = document.getElementById('contact-1');
     const contact2 = document.getElementById('contact-2');
@@ -144,13 +143,12 @@ function translateLanguage(lang) {
 
         product1.innerHTML = 'Our Product';
         product2.innerHTML = 'Explore our premium leaf products crafted with care.';
-        product3.placeholder = 'Search Products';
-        product4.innerHTML = 'Moringa Powder';
-        product5.innerHTML = 'Premium moringa powder, rich in nutrients and antioxidants, perfect for health supplements and culinary uses.';
-        product6.innerHTML = 'Details <i class="bi bi-caret-right-fill"></i>';
-        product7.innerHTML = 'Download Our Catalog';
-        product8.innerHTML = '<i>Get our latest Catalog in PDF format for more information about IndoLeaves.</i>';
-        product9.innerHTML = '<i class="bi bi-file-earmark-arrow-down-fill"></i> Download Catalog';
+        product3.innerHTML = 'Moringa Powder';
+        product4.innerHTML = 'Premium moringa powder, rich in nutrients and antioxidants, perfect for health supplements and culinary uses.';
+        product5.innerHTML = 'Details <i class="bi bi-caret-right-fill"></i>';
+        product6.innerHTML = 'Download Our Catalog';
+        product7.innerHTML = '<i>Get our latest Catalog in PDF format for more information about IndoLeaves.</i>';
+        product8.innerHTML = '<i class="bi bi-file-earmark-arrow-down-fill"></i> Download Catalog';
 
         contact1.innerHTML = 'Contact Us';
         contact2.innerHTML = 'For Dealing To Achieve the Deal.';
@@ -234,13 +232,12 @@ function translateLanguage(lang) {
 
         product1.innerHTML = 'Produk Kami';
         product2.innerHTML = 'Jelajahi produk daun premium kami yang dibuat dengan penuh perhatian.';
-        product3.placeholder = 'Cari Produk';
-        product4.innerHTML = 'Bubuk Daun Kelor';
-        product5.innerHTML = 'Bubuk kelor premium, kaya akan nutrisi dan antioksidan, cocok untuk suplemen kesehatan dan penggunaan kuliner.';
-        product6.innerHTML = 'Detail <i class="bi bi-caret-right-fill"></i>';
-        product7.innerHTML = 'Unduh Katalog Kami';
-        product8.innerHTML = '<i>Dapatkan Katalog terbaru kami dalam format PDF untuk informasi lebih lanjut tentang IndoLeaves.</i>';
-        product9.innerHTML = '<i class="bi bi-file-earmark-arrow-down-fill"></i> Unduh Katalog';
+        product3.innerHTML = 'Bubuk Daun Kelor';
+        product4.innerHTML = 'Bubuk kelor premium, kaya akan nutrisi dan antioksidan, cocok untuk suplemen kesehatan dan penggunaan kuliner.';
+        product5.innerHTML = 'Detail <i class="bi bi-caret-right-fill"></i>';
+        product6.innerHTML = 'Unduh Katalog Kami';
+        product7.innerHTML = '<i>Dapatkan Katalog terbaru kami dalam format PDF untuk informasi lebih lanjut tentang IndoLeaves.</i>';
+        product8.innerHTML = '<i class="bi bi-file-earmark-arrow-down-fill"></i> Unduh Katalog';
 
         contact1.innerHTML = 'Hubungi Kami';
         contact2.innerHTML = 'Untuk Mencapai Kesepakatan Bersama.';
@@ -324,13 +321,12 @@ function translateLanguage(lang) {
 
         product1.innerHTML = 'منتجاتنا';
         product2.innerHTML = 'استكشف منتجاتنا المميزة المصنوعة بعناية.';
-        product3.placeholder = 'ابحث عن المنتجات';
-        product4.innerHTML = 'مسحوق المورينجا';
-        product5.innerHTML = 'مسحوق المورينجا الفاخر، غني بالعناصر الغذائية ومضادات الأكسدة، مثالي للمكملات الصحية والاستخدامات الغذائية.';
-        product6.innerHTML = 'تفاصيل <i class="bi bi-caret-right-fill"></i>';
-        product7.innerHTML = 'تحميل الكتالوج الخاص بنا';
-        product8.innerHTML = '<i>احصل على أحدث كتالوج بصيغة PDF لمزيد من المعلومات عن IndoLeaves.</i>';
-        product9.innerHTML = '<i class="bi bi-file-earmark-arrow-down-fill"></i> تحميل الكتالوج';
+        product3.innerHTML = 'مسحوق المورينجا';
+        product4.innerHTML = 'مسحوق المورينجا الفاخر، غني بالعناصر الغذائية ومضادات الأكسدة، مثالي للمكملات الصحية والاستخدامات الغذائية.';
+        product5.innerHTML = 'تفاصيل <i class="bi bi-caret-right-fill"></i>';
+        product6.innerHTML = 'تحميل الكتالوج الخاص بنا';
+        product7.innerHTML = '<i>احصل على أحدث كتالوج بصيغة PDF لمزيد من المعلومات عن IndoLeaves.</i>';
+        product8.innerHTML = '<i class="bi bi-file-earmark-arrow-down-fill"></i> تحميل الكتالوج';
 
         contact1.innerHTML = 'اتصل بنا';
         contact2.innerHTML = 'من أجل إتمام الصفقة بنجاح.';
@@ -414,13 +410,12 @@ function translateLanguage(lang) {
 
         product1.innerHTML = '我们的产品';
         product2.innerHTML = '探索我们用心打造的优质叶类产品。';
-        product3.placeholder = '搜索产品';
-        product4.innerHTML = '辣木粉';
-        product5.innerHTML = '优质辣木粉，富含营养和抗氧化物，适合健康补品和烹饪用途。';
-        product6.innerHTML = '详细信息 <i class="bi bi-caret-right-fill"></i>';
-        product7.innerHTML = '下载我们的目录';
-        product8.innerHTML = '<i>获取我们最新的 PDF 格式目录，了解更多关于 IndoLeaves 的信息。</i>';
-        product9.innerHTML = '<i class="bi bi-file-earmark-arrow-down-fill"></i> 下载目录';
+        product3.innerHTML = '辣木粉';
+        product4.innerHTML = '优质辣木粉，富含营养和抗氧化物，适合健康补品和烹饪用途。';
+        product5.innerHTML = '详细信息 <i class="bi bi-caret-right-fill"></i>';
+        product6.innerHTML = '下载我们的目录';
+        product7.innerHTML = '<i>获取我们最新的 PDF 格式目录，了解更多关于 IndoLeaves 的信息。</i>';
+        product8.innerHTML = '<i class="bi bi-file-earmark-arrow-down-fill"></i> 下载目录';
 
         contact1.innerHTML = '联系我们';
         contact2.innerHTML = '为了达成交易而沟通。';
